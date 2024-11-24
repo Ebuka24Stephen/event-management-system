@@ -1,1 +1,3 @@
 # event-management-system
+
+This is an event management system. To be continued later...
